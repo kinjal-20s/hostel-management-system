@@ -1,0 +1,7 @@
+HOSTEL MANAGEMENT SYSTEM
+
+ROOM ALLOCATION DETAILS
+
+Room 101 - Kinjal - Single
+Room 102 - Aarav - Double
+Room 103 - Riya - Single
