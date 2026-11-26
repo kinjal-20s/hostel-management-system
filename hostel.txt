@@ -1,7 +1,13 @@
 HOSTEL MANAGEMENT SYSTEM
 
-ROOM ALLOCATION:
+ROOM ALLOCATION DETAILS
+
 Room 101 - Kinjal - Single
 Room 102 - Aarav - Double
 Room 103 - Riya - Single
 
+MESS MENU DETAILS
+
+Monday - Paneer, Rice, Dal
+Tuesday - Chole, Roti, Rice
+Wednesday - Rajma, Rice, Salad
